@@ -1,0 +1,15 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Project specific
+mining_repo/
+*.csv
+
+# OS generated files
+.DS_Store

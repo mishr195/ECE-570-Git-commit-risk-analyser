@@ -1,0 +1,17 @@
+{
+    "thresholds": {
+        "main": 0.5,
+        "master": 0.5,
+        "dev": 0.6,
+        "default": 0.5
+    },
+    "ignored_extensions": [
+        ".md",
+        ".txt",
+        ".csv"
+    ],
+    "whitelist_words": [
+        "refactor",
+        "doc update"
+    ]
+}
